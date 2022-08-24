@@ -6,7 +6,7 @@ Olá!
 </br>
 </br>
 
-<h4 align="center"> 
+<h4> 
     :construction:  Perfil em construção  :construction:
 </h4>
 
