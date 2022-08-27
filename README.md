@@ -1,6 +1,6 @@
 <h1 align="center"> Sergio Okamoto </h1>
 
-#Olá! 
+Olá! 
 <p>Bem vindo ao meu perfil GitHub 👋
 
 </br>
@@ -13,7 +13,7 @@
 </br>
 </br>
   
-##
+
 <p align="center">
 <a href="https://github.com/Okamotto">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Okamotto&layout=compact&langs_count=8&theme=algolia"/>
