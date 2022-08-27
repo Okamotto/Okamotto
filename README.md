@@ -1,6 +1,6 @@
 <h1 align="center"> Sergio Okamoto </h1>
 
-Olá! 
+#Olá! 
 <p>Bem vindo ao meu perfil GitHub 👋
 
 </br>
