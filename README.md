@@ -17,7 +17,7 @@ Eu sou Sergio Okamoto, trabalho atualmente como Acessor Administrativo do CEETEP
 [![GitHub](icons/github.png)](https://github.com/Okamotto)
 [![Twitter](icons/twitter.png)](https://twitter.com/Sergio_Okamoto)
 [![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/sergio-okamoto-792703247)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/sergio_okamoto/)
 
 ### Estatísticas rápidas sobre mim
 | Estatísticas do Github | Principais linguagens |
