@@ -1,26 +1,25 @@
-<h1 align="center"> Sergio Okamoto </h1>
+# Sergio Okamoto
 
-Olá! 
-<p>Bem vindo ao meu perfil GitHub 👋
+Oi!
+Eu sou Sergio Okamoto, trabalho atualmente como Acessor Administrativo do CEETEPS na Etec de Lins, busco recuperar o tempo perdido longe da área de tecnologia.
 
-</br>
-</br>
+---
 
-<h4> 
-    :construction:  Perfil em construção  :construction:
-</h4>
+### Formação Acadêmica
+- Bacharel em Análise de Sistemas - Centro Universitário de Lins
+- Tecnólogo em Banco de dados - Fatec Lins "Prof. Antônio Seabra"
+- Técnico Administrativo - Etec Lins
 
-</br>
-</br>
-  
+---
 
-<p align="center">
-<a href="https://github.com/Okamotto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Okamotto&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Okamotto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-<!---
-Okamotto/Okamotto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Redes sociais:**
+
+[![GitHub](icons/github.png)](https://github.com/Okamotto)
+[![Twitter](icons/twitter.png)](https://twitter.com/Sergio_Okamoto)
+[![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/sergio-okamoto-792703247)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
+### Estatísticas rápidas sobre mim
+| Estatísticas do Github | Principais linguagens |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Okamotto&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okamotto&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
