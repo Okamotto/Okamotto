@@ -1,7 +1,7 @@
 # Sergio Okamoto
 
 Oi!
-Eu sou Sergio Okamoto, trabalho atualmente como Acessor Administrativo do CEETEPS na Etec de Lins, busco recuperar o tempo perdido longe da área de tecnologia.
+Eu sou Sergio Okamoto, atualmente estou desempregado, busco recuperar o tempo perdido longe da área de tecnologia.
 
 ---
 
